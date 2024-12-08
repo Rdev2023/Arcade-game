@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    font-size: 3em;
+}
+
+.top-lane{
+  height: 65px;
+  margin: 0% 0% -4% 0%;
+}
+
+
+.top-field{
+  position: relative;
+  margin: auto;
+  width: 505px;
+  display: inline-block;
+  height: 100%;
+  float:clear;
+
+}
+
+.three-fields{
+  display: inherit;
+  font-size: 1em;
+}
+
+.select-field{
+  position: relative;
+  float: left;
+}
+
+select{
+  border-radius: 3px;
+  font-size: 0.5em;
+}
+
+.show{
+  display:none;
+}
+
+.score-field{
+  margin:0 auto;
+  float: clear;
+}
+
+.gem-field{
+float: right;
+}
